@@ -30,7 +30,7 @@ x.comドメインで開いたページを、自動的にtwitter.comで開き直�
 - xpi file can download from [Release](https://github.com/dekotan24/X2Twitter-Redirector/releases) page!
 
 ### Chrome
-- C"Code" → "Download ZIP"からダウンロードしてください。
+- "Code" → "Download ZIP"からダウンロードしてください。
 - Please download from "Code" → "Download ZIP".
 ![image](https://github.com/dekotan24/X2Twitter-Redirector/assets/27037519/fdbcebde-f9f6-4201-aba2-a5cb6be9572d)
 
