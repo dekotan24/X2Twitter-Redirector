@@ -1,0 +1,17 @@
+{
+	"manifest_version": 3,
+	"name": "X to Twitter Redirector",
+	"version": "1.0",
+	"description": "x.comのページをtwitter.comで開くようにします。リダイレクトしないようにするには、URLに【x2t_dis=true】というパラメータを追加します。【例】https://x.com/foo/12345/?x2t_dis=true",
+	"author": "Ogura Deko",
+	"content_scripts": [
+		{
+			"matches": ["*://x.com/*"],
+			"js": ["redirect.js"]
+		}
+	],
+	"homepage_url": "https://fanet.work",
+	"icons": {
+		"48": "icons/48.png"
+	}
+}
