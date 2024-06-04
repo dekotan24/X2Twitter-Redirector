@@ -19,8 +19,8 @@ x.comドメインで開いたページを、自動的にtwitter.comで開き直�
 ![image](https://github.com/dekotan24/X2Twitter-Redirector/assets/27037519/75133154-d929-4ee2-81ed-9ef2836dfe63)
 
 ### Chrome
-- Chromeは、ソース（`chrome_x2twitter` フォルダ）をダウンロードした後、「パッケージ化されていない拡張機能を読み込む」からご利用ください（Chromeを閉じるたびに毎回この手順が必要です）。
-- For Chrome, download the source (in the `chrome_x2twitter` folder) and then use "Load Unpackaged Extensions" (you will need to do this step every time you close Chrome).
+- Chromeは、ソース（`chrome_x2twitter` フォルダ）をダウンロードした後、「パッケージ化されていない拡張機能を読み込む」からご利用ください。
+- For Chrome, download the source (in the `chrome_x2twitter` folder) and then use "Load Unpackaged Extensions".
 ![image](https://github.com/dekotan24/X2Twitter-Redirector/assets/27037519/87c0c6ca-6c31-481b-9a67-395606501ff8)
 
 
