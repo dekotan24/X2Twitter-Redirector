@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "X to Twitter Redirector",
+	"version": "1.1",
+	"description": "x.comのページをtwitter.comで開くようにします。",
+	"author": "Ogura Deko",
+	"content_scripts": [
+		{
+			"matches": ["*://x.com/*"],
+			"js": ["redirect.js"]
+		}
+	],
+	"homepage_url": "https://fanet.work",
+	"icons": {
+		"48": "icons/48.png"
+	},
+	"applications": {
+		"gecko": {
+			"id": "x2twitter.addons@fanet.work"
+		}
+	}
+}
